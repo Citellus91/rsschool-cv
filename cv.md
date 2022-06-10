@@ -1,5 +1,5 @@
 # Serhii Horianyi
-![Photo](/gh-pages/avatar.jpg)
+![Photo](/avatar.jpg)
 ---
 ## Contacts
 
