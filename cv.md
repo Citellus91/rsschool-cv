@@ -1,7 +1,7 @@
 # Serhii Horianyi
-![Photo]()
+![Photo](https://github.com/Citellus91/rsschool-cv/blob/gh-pages/avatar.jpg)
 ---
-##Contacts
+## Contacts
 
 [Mail](citellus.suslik@gmail.com)
 [Telegram](https://t.me/Suslik_Citellus)
@@ -9,18 +9,18 @@
 [Discord]()
 [GitHub](https://github.com/Citellus91)
 ---
-##About me.
+## About me.
 
 Live in Dnipro, Ukraine.
 31 years old.
 Worked 3 years content-manager in marketplace, 8 years in marketing department of ISP. 6 years working in mediaholding informator.ua on position technical administrator.
 ---
-##Skills
+## Skills
 
 Basic html
 Basic css
 ---
-##Code
+## Code
 
 '''
 function multiply(a, b){
@@ -28,15 +28,15 @@ function multiply(a, b){
 }
 '''
 
-##Work experience
+## Work experience
 
 404
 ---
-##Education
+## Education
 
 Live
 RS-School
 ---
-##Language
+## Language
 
 English A2
