@@ -1,5 +1,5 @@
 # Serhii Horianyi
-![Photo](https://github.com/Citellus91/rsschool-cv/blob/gh-pages/avatar.jpg)
+![Photo](/gh-pages/avatar.jpg)
 ---
 ## Contacts
 
