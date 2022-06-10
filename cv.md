@@ -5,12 +5,7 @@
 
 [Mail](citellus.suslik@gmail.com)
 
-
 [Telegram](https://t.me/Suslik_Citellus)
-
-
-[Phone](tel:+380970915037)
-
 
 [GitHub](https://github.com/Citellus91)
 
@@ -28,7 +23,8 @@ Basic css
 ---
 ## Code
 
-```function multiply(a, b){
+```
+function multiply(a, b){
  return a * b
 }
 ```
